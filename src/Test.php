@@ -1,5 +1,5 @@
 <?php
-namespace kynm\SayHello;
+namespace trantrung\SayHello;
 class SayHello
 {
     public static function world()
