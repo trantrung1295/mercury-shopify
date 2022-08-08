@@ -2,7 +2,7 @@
     "name": "ntmercury/shopify",
     "description": "the first composer package",
     "type": "php",
-    "license": "aaa",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Tran Trung",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kynm\\SayHello\\": "src/"
+            "trantrung\\SayHello\\": "src/"
         }
     }
 }
