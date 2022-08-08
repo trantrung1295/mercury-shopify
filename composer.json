@@ -2,7 +2,7 @@
     "name": "ntmercury/shopify",
     "description": "the first composer package",
     "type": "php",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Tran Trung",
