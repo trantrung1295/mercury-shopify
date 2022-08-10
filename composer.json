@@ -1,5 +1,5 @@
 {
-    "name": "ntmercury/shopify",
+    "name": "ntmercury",
     "description": "the first composer package",
     "type": "php",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "trantrung\\SayHello\\": "src/"
+            "ntmercury": "src/"
         }
     }
 }
